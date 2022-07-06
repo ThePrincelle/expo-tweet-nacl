@@ -19,4 +19,8 @@
 
 - nacl-util.js contains useful functions to encode/decode UTF8 and Base64
 
-#
+# Usage
+
+```
+import nacl from 'expo-tweet-nacl';
+```
