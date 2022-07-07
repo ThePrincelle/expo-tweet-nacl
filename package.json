@@ -1,6 +1,6 @@
 {
   "name": "expo-tweet-nacl",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Tweet NaCl for React Native Expo which uses expo-random to get random bytes (getRandomBytesAsync - equivalent to Node.js crypt.randomBytes), ",
   "main": "index",
   "scripts": {
