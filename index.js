@@ -1,6 +1,6 @@
-import nacl from './nacl-fast'
+import nacl from './nacl';
 import * as util from './nacl-util'
 
-nacl.util = util
+nacl.util = util;
 
 export default nacl
